@@ -1,0 +1,28 @@
+_repo: Amerikan-ensimaiset-suomalaiset-b-Eli-Delawaren-siirtokunnan-historia_75894
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ilmonen, Salomon
+    gutenberg_agent_id: '58202'
+    url: http://www.gutenberg.org/2009/agents/58202
+description: ''
+gutenberg_issued: '2025-04-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75894'
+language: fi
+pgterms:marc904: https://digi.kansalliskirjasto.fi/teos/binding/2194811
+pgterms:marc905: 20250406210452ilmonen
+pgterms:marc906: '1916'
+pgterms:marc907: US
+production_note: Produced by Petteri Pitkänen, from scanned material generously made
+  available by the National Library of Finland.
+publication_note: '  $aHancock, Michigan :$bSuomalais-luteerilaisen kustannusliikkeen
+  kirjapaino, $c1916.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Amerikan ensimäiset suomalaiset : $b Eli Delawaren siirtokunnan historia'
+url: http://www.gutenberg.org/ebooks/75894
