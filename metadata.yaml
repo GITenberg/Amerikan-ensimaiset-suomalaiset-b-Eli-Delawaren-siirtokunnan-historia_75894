@@ -1,11 +1,16 @@
 _repo: Amerikan-ensimaiset-suomalaiset-b-Eli-Delawaren-siirtokunnan-historia_75894
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Ilmonen, Salomon
     gutenberg_agent_id: '58202'
     url: http://www.gutenberg.org/2009/agents/58202
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75894#Amerikan-ensimaiset-suomalaiset-b-Eli-Delawaren-siirtokunnan-historia
 gutenberg_issued: '2025-04-17'
 gutenberg_type: Text
 identifiers:
